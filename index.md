@@ -1,11 +1,12 @@
 ---
 title: Podcasts Urbanna
 subtitle: Aonde a noticia e a opinião chegam
-layout: home
-callouts: home_callouts
+layout: page
+hero_link_text: Ouça Já
 show_sidebar: false
+callouts: example_callouts
 ---
 
-# Bem vindos.
+<h1>Bem vindos.</h1>
 
 Estamos em desenvolvimento, mas será aqui que você conhecerá as publicações dos nossos podcasts.
