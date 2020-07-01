@@ -2,6 +2,7 @@
 title: Podcasts Urbanna
 subtitle: Aonde a noticia e a opinião chegam
 layout: page
+hero_height: is-large
 hero_link_text: Ouça Já
 show_sidebar: false
 callouts: example_callouts
