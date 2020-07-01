@@ -1,8 +1,10 @@
 - name: Home
   link: /
-- name: Blog
-  link: /blog/
-- name: Products
-  link: /products/
-- name: Privacy Policy
-  link: /privacy-policy/
+- name: Cafe
+  link: /cafe/
+- name: Cafe Curto
+  link: /cafe-curto/
+- name: Loja
+  link: /loja/
+- name: Termos
+  link: /termos/
