@@ -3,7 +3,7 @@ title: Podcasts Urbanna
 subtitle: Aonde a noticia e a opinião chegam
 layout: home
 callouts: home_callouts
-show_sidebar: true
+show_sidebar: false
 ---
 
 # Bem vindos.
